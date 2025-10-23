@@ -1,11 +1,12 @@
 body{
 margin: 0;
+background-color:darkseagreen;
 }
 
 .header{
 background-color:aquamarine;
 padding: 20px;
-max-width: 1000px;
+max-width: 1100px;
 margin: auto;
 margin-bottom: 20px;
 }
@@ -23,14 +24,15 @@ padding: 20px;
 
 .main{
 display: flex;
-max-width: 1040px;
+justify-content: center;
+max-width: 1140px;
 margin: auto;
 }
 
 .footer{
 background-color:aquamarine;
 padding: 20px;
-max-width: 1000px;
+max-width: 1100px;
 margin: auto;
 margin-top: 20px;
 }
